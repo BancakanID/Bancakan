@@ -1,1 +1,3 @@
 # Bancakan
+
+Issue-only repository.
